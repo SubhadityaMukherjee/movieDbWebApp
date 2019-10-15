@@ -221,3 +221,12 @@ border:solid #fff;
 transform:rotate(45deg);
 border-width:0 3px 3px 0;
 }
+
+
+#videoContainer
+{
+    transform: rotateY(180deg);
+    -webkit-transform:rotateY(180deg); /* Safari and Chrome */
+    -moz-transform:rotateY(180deg); /* Firefox */
+}
+

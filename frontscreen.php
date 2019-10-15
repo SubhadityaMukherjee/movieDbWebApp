@@ -11,6 +11,7 @@
   <ul class="nav">
     <li align="center">
       <img class="image" src="images/icon.png" width="60" height="60" /><a class="a_nav" href="/moviesFinder/frontscreen.php">Find My Movie</a>
+      <li><a class="a_nav" href="/moviesFinder/fun.php">Click me for some Fun!</a></li>
     </li>
 
     </ul><br />

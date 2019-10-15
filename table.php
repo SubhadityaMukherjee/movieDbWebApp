@@ -9,6 +9,7 @@
         <li align="center">
       <img src="images/icon.png" width="60" height="60" class="img3" /><a class="a_nav" href="/moviesFinder/frontscreen.php">Find My Movie</a>
     </li>
+    <li><a class="a_nav" href="/moviesFinder/fun.php">Click me for some Fun!</a></li>
   </ul><br />
 <?php
 echo '<div align="center">';
@@ -49,7 +50,7 @@ $result->free();
 echo "</table>";
 echo '</div>';
 // $conn->close();
-}
+
 
 }else{
 
